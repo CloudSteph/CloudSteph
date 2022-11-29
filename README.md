@@ -4,7 +4,7 @@ I'm an iOS Software Engineer based in New York.
 
 =================================================================================================
 
-I'm currently work with:
+I'm currently working with:
 
 XCODE, SWIFT, IOS
 
