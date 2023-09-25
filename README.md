@@ -6,7 +6,7 @@ I'm an iOS Software Engineer based in New York.
 
 I'm currently working with:
 
-XCODE, SWIFT, IOS
+XCODE, SWIFT, SWIFTUI, IOS
 
 I have worked with: 
 
